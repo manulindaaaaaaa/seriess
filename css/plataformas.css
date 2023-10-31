@@ -1,0 +1,135 @@
+body{
+	background-color: #000000;
+	font-family: Times;
+	width: 100%;
+	
+	
+}
+nav{
+	text-transform: uppercase;
+	font-family: Times;
+	font-size: 20px;
+	color: #FFFFFF;
+	background-color: #DC143C;
+	margin: left;
+	width: 99%;
+	height:40px;
+	text-align: center;	
+	clear: both;
+	
+}	
+	
+#titulo{
+	width: 100%;
+	text-align:center;
+}
+
+.login{
+	float: right;
+}
+	
+h1{
+	color: #DC143C;
+	padding:10px;
+	position: absolute;
+	top: 0%;
+	left: 45%;
+	font-size: 30px;
+}
+
+a{
+	text-decoration: none;
+}
+a:link{
+	color: white;
+	text-decoration: none;
+}
+a:visited{
+	color: white;
+}
+
+a:hover{
+	color: black;
+	text-decoration: none;
+}
+
+li{
+	display: inline;
+    margin-right: 20px;
+	padding:20px;
+}
+
+h2{
+	text-transform: uppercase;
+	font-family: Times;
+	color: #DC143C;
+	padding: 10px;
+}
+
+
+
+footer{
+	color: white;
+	font-family: Times;
+	font-size : 20px;
+	text-align: center;
+	background-color: #DC143C;
+}
+.clear{
+	clear: both;
+}
+
+form{
+	font-family: Times;
+	color: #DC143C;
+	
+}
+
+table{
+	font-family: Times;
+	color: #DC143C;
+}
+h3{
+	text-transform: uppercase;
+	font-family: Times;
+	color: #DC143C;
+	padding: 10px;
+    bottom: 10px;
+	margin-left: 10px;
+	font-size: 20px;
+	
+}
+
+
+
+p{
+	
+	font-family: Times;
+	color:#FFFFFF;
+	min-height: 150px;
+	font-size: 16px;	
+	
+}
+
+
+
+
+.app img,  .as img, .site img {
+	float:left;
+	clear: left;
+	padding: 10px;
+	width: 50%;
+	
+}
+
+main{
+	width:100%;
+}
+
+.app, .as, .site{
+	
+	width: 30%;
+	margin: 1%;
+	float: left;
+	
+}
